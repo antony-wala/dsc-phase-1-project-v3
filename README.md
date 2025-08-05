@@ -1,4 +1,4 @@
-# Aircraft Acquisition Risk Assessment
+# Airplane Acquisition Risk Assessment
 
 **Author:** Antony Amunia Wala
 
